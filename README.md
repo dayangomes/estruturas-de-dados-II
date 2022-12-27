@@ -1,3 +1,3 @@
 # estruturas-de-dados-II
 
-Atividades feitas e arquivos utilizados durante a matéria de Estruturas de Dados 2.
+Atividades feitas e arquivos utilizados durante a disciplina de Estruturas de Dados 2.
