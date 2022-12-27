@@ -1,0 +1,30 @@
+1. Raiz é NULL
+2. É folha?
+   2.1. Tem espaço?
+   	2.1.1. O elemento a ser inserido é maior do que ja esta. 
+	2.1.2. Troca ou insere na informação 2.
+   2.2. Nao tem espaço:
+        2.2.1. Quebra o nó, informação do meio sobe, novo nó 
+	       guarda a maior informação.
+	2.2.2. Tem pai? Caso nao cria um novo nó, mover os filhos
+	2.2.3. Tem pai? Caso sim.
+	       2.2.3.1. 
+3. O numero é menor do que a informação 1 da raiz? sim
+   3.1 Pai recebe raiz atual.
+   3.2 Raiz recebe esq.
+   3.3 Chama a função novamente.
+4. O numero é maior do que a informação 1 da raiz? sim
+5. Quantas informações tem na raiz? se 1
+   5.1.Pai recebe raiz atual.
+   5.2 Raiz recebe centro.
+   5.3 Chama a função novamente.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
